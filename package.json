@@ -3,7 +3,7 @@
 	"version": "0.1.1",
 	"description": "Data model for Pulse52.",
 	"author": "Cogneco AB",
-	"license": "UNLICENSED",
+	"license": "MIT",
 	"repository": "https://github.com/pulse52/model",
 	"bugs": {
 		"url": "https://github.com/pulse52/model/issues"

@@ -1,2 +1,2 @@
-# library-template
-Template for Typescript library.
+# Pulse52 Model
+Data model and client for Pulse52.

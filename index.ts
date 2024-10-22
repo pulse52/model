@@ -1,1 +1,3 @@
-export const a = 42
+import * as pulse52 from "./pulse52"
+
+export { pulse52 }

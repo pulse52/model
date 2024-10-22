@@ -1,8 +1,8 @@
 import "jest"
-import * as library from "./index"
+import { pulse52 } from "./index"
 
-describe("library", () => {
-	it("a", () => {
-		expect(library.a).toEqual(42)
+describe("pulse52", () => {
+	it("Feed.Entry.Author.is", () => {
+		expect(pulse52.Feed.Entry.Author.is({})).toEqual(false)
 	})
 })

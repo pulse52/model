@@ -2,10 +2,7 @@
 	"compilerOptions": {
 		"target": "es2021",
 		"module": "es2020",
-		"lib": [
-			"es2023",
-			"webworker"
-		],
+		"lib": ["es2023", "webworker"],
 		"allowJs": true,
 		"allowSyntheticDefaultImports": true,
 		"esModuleInterop": true,
@@ -20,18 +17,11 @@
 		"moduleResolution": "node",
 		"resolveJsonModule": true,
 		"paths": {
-			"*": [
-				"types/*"
-			]
+			"*": ["types/*"]
 		},
-		"types": [
-			"jest",
-			"node"
-		]
+		"types": ["jest", "node"]
 	},
-	"files": [
-		"index.ts"
-	],
+	"files": ["index.ts"],
 	"typeAcquisition": {
 		"enable": true
 	}
